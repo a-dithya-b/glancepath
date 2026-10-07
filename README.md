@@ -111,4 +111,4 @@ docs/
 
 ## Status
 
-Very early experiment. The immediate goal is to prove that GlancePath can build a useful and trustworthy Python code graph before investing in the VS Code visualization layer (extension).
+It is a very early experiment. The immediate goal is to prove that GlancePath can build a useful and trustworthy Python code graph before investing in the VS Code visualization layer (extension).
